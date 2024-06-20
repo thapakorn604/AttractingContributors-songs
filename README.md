@@ -8,7 +8,9 @@ Where would you love to go, and what places would you love to visit?
 
 # How To Contribute ? 
 It's very simple. All you need to do is add your favorite place(s) as shown below.
+
 NB: Feel free to add as many places as you want to visit.
+
 Thank you in advance for your contribution. 
 
 # Places You Would Love to Visit
