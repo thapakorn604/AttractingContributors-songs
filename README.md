@@ -1,8 +1,10 @@
 # WELCOME MY REPOSITORY 
 Hey guys, I'm Sam, and I would appreciate it if you could participate in this project. Please read the text below to learn more about it.
 
-# Your favourite Country or places you would like to visit in the next 5 years ? 
-We all dream of visiting some places or countries in the near future. IMAGINE you have the MONEY and the OPPORTUNITIES to travel ANYWHERE you want without any RESTRICTIONS. Where would you love to go, and what places would you love to visit?
+# Your Favourite Country Or Places You Would Love To Visit In The Next 5 Years ? 
+We all dream of visiting some places or countries in the near future. 
+IMAGINE you have the MONEY and the OPPORTUNITIES to travel ANYWHERE you want without any RESTRICTIONS. 
+Where would you love to go, and what places would you love to visit?
 
 # How To Contribute ? 
 It's very simple. All you need to do is add your favorite place(s) as shown below.
