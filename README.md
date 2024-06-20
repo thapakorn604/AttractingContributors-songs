@@ -1,4 +1,4 @@
-# WELCOME MY REPOSITORY 
+# WELCOME TO MY REPOSITORY 
 Hey guys, I'm Sam, and I would appreciate it if you could participate in this project. 
 
 Please read the text below to learn more about it.
