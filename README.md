@@ -15,7 +15,7 @@ It's very simple. All you need to do is add your favorite place(s) as shown belo
 
 1- Click on edit (pen icon at the top right coner of this page)
 
-2- Scrol down to *Places You Would Love to Visit*
+2- Scroll down to *Places You Would Love to Visit*
 
 3- Add your place(s)
 
