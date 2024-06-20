@@ -13,6 +13,16 @@ Where would you love to go, and what places would you love to visit?
 # How To Contribute ? 
 It's very simple. All you need to do is add your favorite place(s) as shown below.
 
+1- Click on edit (pen icon at the top right coner of this page)
+
+2- Scrol down to *Places You Would Love to Visit*
+
+3- Add your place(s)
+
+4- Click on commit changes (at the top right coner of this page)
+
+5- Click on pull request and you are done !!
+
 NB: Feel free to add as many places as you want to visit.
 
 Thank you in advance for your contribution. 
