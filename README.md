@@ -26,3 +26,4 @@ Goal: I want contributors to help me list out their favorite artist.
 5. Creepy Nuts
 6. The Beatles
 7. 紫式部
+8. UVERworld
