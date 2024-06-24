@@ -29,6 +29,11 @@ Thank you in advance for your contribution.
 
 # Places You Would Love to Visit
 1 - I would love to go to California, UNITED STATES, and would love to visit the *Silicon Valley* 
-2 - Kesennuma, Sendai
+
+2 - Austin, Texas
+
 3 - I would like to go to UK, Cotswolds
+
+4 - Kesennuma, Sendai
+
 
