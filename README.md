@@ -32,6 +32,4 @@ To complete the assignment, please do the following:
 - 世界に一つだけの花（SMAP）
 - To.X
 - 星間飛行
-
-
--akb
+- akb
