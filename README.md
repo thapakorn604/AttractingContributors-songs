@@ -33,3 +33,7 @@ Thank you in advance for your contribution.
 2 - Austin, Texas
 
 3 - I would like to go to UK, Cotswolds
+
+4 - Kesennuma, Sendai
+
+
