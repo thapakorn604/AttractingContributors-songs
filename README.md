@@ -36,6 +36,8 @@ Thank you in advance for your contribution.
 
 4 - Kesennuma, Sendai
 
+5 - Paris, France
+
 
 5 - London, England
 
