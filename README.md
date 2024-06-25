@@ -36,10 +36,22 @@ Thank you in advance for your contribution.
 
 4 - Kesennuma, Sendai
 
-5 - Canada
+5 - Paris, France
 
-6 - Germany
+6 - Kenya
 
 7 - Switzerland
+
+8 - India
+
+9 - New York ,USA
+
+10 - London, England
+
+11 - Canada
+
+12- Germany
+
+13 - Iceland
 
 
