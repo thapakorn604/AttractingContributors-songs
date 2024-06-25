@@ -36,6 +36,12 @@ Thank you in advance for your contribution.
 
 4 - Kesennuma, Sendai
 
+
 5 - London, England
+
+6 - Canada
+
+7 - Germany
+
 
 
