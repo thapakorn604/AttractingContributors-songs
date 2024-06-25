@@ -38,6 +38,8 @@ Thank you in advance for your contribution.
 
 5 - Paris, France
 
+6 - Kenya
+
 
 5 - London, England
 
