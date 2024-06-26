@@ -34,4 +34,8 @@ Coca Cola
 Milk  
 breakfast tea
 Choco Banana
-
+breakfast tea  
+Coke Zero
+Tea
+sekitoba
+Black tea
