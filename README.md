@@ -28,3 +28,4 @@ Goal: I want contributors to help me list out their favorite artist.
 7. 紫式部
 8. UVERworld
 9. Earth wind and fire
+10. Dua Lipa
