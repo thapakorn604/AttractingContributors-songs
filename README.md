@@ -27,4 +27,6 @@ Goal: I want contributors to help me list out their favorite artist.
 6. The Beatles
 7. 紫式部
 8. UVERworld
-9. Talyor Swift
+9. Earth wind and fire
+10. Dua Lipa
+11. Talyor Swift
